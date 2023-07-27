@@ -1,1 +1,3 @@
+local keyA = ""
 
+return keyA
