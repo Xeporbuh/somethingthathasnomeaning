@@ -1,3 +1,3 @@
-local keyA = "ZTV5i9inrSVLrn2d4iuCaNLTjbV3RAcsNvRZbPqyrsL8SwIT6z4SWa5"
+local keyA = "8GUFteybaR5M0H801RTXWigigOJISYpmWihj976sp9Ay6iDmEjHryRE"
 
 return keyA
